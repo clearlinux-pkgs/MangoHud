@@ -1,0 +1,11 @@
+0.7.2
+dbus-dev
+libxkbcommon-dev
+pkgconfig(dbus-1)
+pkgconfig(glew)
+pkgconfig(glfw3)
+pkgconfig(nlohmann_json)
+pkgconfig(spdlog)
+pkgconfig(wayland-client)
+pkgconfig(x11)
+pkgconfig(xkbcommon)
